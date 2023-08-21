@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+    "name": "Tic-Tac-Toe Game",
+    "version": "1.0",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "16": "images/my-image.png",
+        "48": "images/my-image.png",
+        "128": "images/my-image.png"
+      }
+    },
+    "icons": {
+      "16": "images/my-image.png",
+      "48": "images/my-image.png",
+      "128": "images/my-image.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["index.js"]
+      }
+    ]
+  }
+  
