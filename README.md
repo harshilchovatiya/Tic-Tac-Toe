@@ -1,1 +1,41 @@
+
 # Tic-Tac-Toe
+
+Welcome to the engaging world of Tic-Tac-Toe, where strategic prowess meets cutting-edge technology on our interactive gaming website. Prepare for a classic battle of wits as you take on the computer in this timeless game of X's and O's.
+
+
+# Hi, I'm Harshil Chovatiya! 👋
+
+
+## Demo
+
+https://harshilchovatiya.github.io/Tic-Tac-Toe/
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at harshilbmk@gmail.com
+
+
+
+## 🚀 About Me
+I'm a full Flutter developer...
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://harshilchovatiya.github.io/harshil/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/harshilbmk)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshilbmk)
+
+
+## 🛠 Skills
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+
+## Support
+
+For support, email harshilbmk@gmail.com .
+
