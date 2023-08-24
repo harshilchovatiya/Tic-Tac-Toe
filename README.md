@@ -38,10 +38,11 @@ I'm a full Flutter developer...
 ## Support
 
 For support, email harshilbmk@gmail.com .
+<p align='center'><img src="https://komarev.com/ghpvc/?username=harshilchovatiya&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="harshilchovatiya" />
+<a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
+<p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN"> 
 
-<p align='center'><a href="https://api.daily.dev/get?r=harshilchovatiya">
-
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harshilbmk) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/harshilbmk) 
  
 <div align="center">
