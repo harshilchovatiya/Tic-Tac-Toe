@@ -1,4 +1,3 @@
-
 # Tic-Tac-Toe
 
 Welcome to the engaging world of Tic-Tac-Toe, where strategic prowess meets cutting-edge technology on our interactive gaming website. Prepare for a classic battle of wits as you take on the computer in this timeless game of X's and O's.
